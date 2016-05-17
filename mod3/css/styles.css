@@ -52,3 +52,17 @@ body{
 	padding-right: 20px;
 	padding-top: 30px;
 }
+#chicken,#beef,#sushi{
+	min-height: 1000px;
+	border-right: 5px solid white;
+	border-left: 5px solid white;
+	padding:15px;
+}
+#bac2top{
+	margin-top: 15px;
+}
+
+#content{
+	background-color: black;
+	border: 5px solid white;
+}
